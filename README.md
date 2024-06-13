@@ -11,5 +11,9 @@ Each road costs a different amount of time to pass, and the program's job is to 
 <h2>environment</h2>
 You must install Openframeworks on you computer first. After installing, you must create a github repository under 'Myapp' folder, and clone the whole project file to the git repo.
 
+Or instead, it seems to be the case that just running this in a macOS computer works.
+
 <h2>Operation Manual</h2>
-After running the program, press 'l' to initialize the city. Press 's' to show the time cost of all the roads in the city.
+After running the program, press 'l' to initialize the city. Press 's' to show the time cost of all the roads in the city. Press 'G' to generate random  types of events in a random location.. 
+
+There are two types of events, Fire and Police. When Pressing G, the patrol car / fire truck nearest to the incident will be moved to the location of the incident
